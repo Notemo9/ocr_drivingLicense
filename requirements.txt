@@ -1,0 +1,6 @@
+Flask
+flask_cors
+paddleocr
+pillow
+numpy
+tqdm
